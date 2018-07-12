@@ -1,4 +1,4 @@
-# HTML 태그
+# 기본 HTML 태그 - 1
 
 HTML은 `<` 로 시작해서 `>` 로 끝나는 `태그(tag)` 로 이루어져 있습니다. \
 일반적으로 여는 태그와 닫는 태그가 쌍으로 이루어져 있으며,
@@ -74,7 +74,7 @@ HTML은 `<` 로 시작해서 `>` 로 끝나는 `태그(tag)` 로 이루어져 �
 <h6>this is h6</h6>
 ```
 
-![title_tag](../_img/html_title_tag.png)
+![title_tag](../_img/html_title_tag.PNG)
 
 > 제목 태그 예시
 
@@ -139,7 +139,7 @@ HTML은 `<` 로 시작해서 `>` 로 끝나는 `태그(tag)` 로 이루어져 �
 </p>
 ```
 
-![unuse_br](../_img/html_br_1.png)
+![unuse_br](../_img/html_br_1.PNG)
 
 위처럼 코드에서 줄바꿈을 해도 웹 브라우저에선 `text text` 와 같이 나오게 됩니다.
 
@@ -153,7 +153,7 @@ HTML은 `<` 로 시작해서 `>` 로 끝나는 `태그(tag)` 로 이루어져 �
 </p>
 ```
 
-![use_br](../_img/html_br_2.png)
+![use_br](../_img/html_br_2.PNG)
 
 우리가 원하던대로 줄바꿈 되어서 나오는 것을 확인할 수 있습니다.
 
