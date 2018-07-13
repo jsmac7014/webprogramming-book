@@ -14,5 +14,5 @@
 * [CSS란](./chapter_3/_chapter_3.md)
     * [CSS 선택자](./chapter_3/chapter_3_style_1.md)
     * [CSS 박스 모델](./chapter_3/chapter_3_style_2.md)
-    * [CSS 3](./chapter_3/chapter_3_style_3.md)
+    * [CSS 스타일 속성 기본](./chapter_3/chapter_3_style_3.md)
 
